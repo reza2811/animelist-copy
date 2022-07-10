@@ -29,6 +29,7 @@ a {
   background-image: url(./posters/kingdom-bigposter.jpg);
   background-repeat: no-repeat;
   background-size: 200%;
+	height:400%
   color: #222;
   border-radius: 50px;
   box-shadow: 10px;
